@@ -40,7 +40,7 @@ face_recog/
 
 1. **Clone the repo**
 --bash
-git clone https://github.com/yourusername/facerecog.git
+git clone https://github.com/karthikaremanda/facerecog.git
 cd facerecog
 
 Backend setup
